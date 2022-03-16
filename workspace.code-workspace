@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "..\\Desktop\\CURSO HTML"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "proyecto1"
+    }
+}
